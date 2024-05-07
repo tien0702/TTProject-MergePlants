@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Zombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TrashCan
+  - ParcelOfLand
+  - Flower
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2714566605
+    locked: 0
+  - name: Garden
+    uniqueID: 368028769
+    locked: 0
+  - name: Land
+    uniqueID: 1674879871
+    locked: 0
+  - name: Flower
+    uniqueID: 3616319485
+    locked: 0
+  - name: Zombie
+    uniqueID: 264963375
+    locked: 0

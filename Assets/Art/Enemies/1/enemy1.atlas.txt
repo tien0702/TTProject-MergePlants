@@ -1,0 +1,97 @@
+
+enemy1.png
+size: 323,281
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 173, 8
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 127, 7
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+foot-1
+  rotate: true
+  xy: 2, 2
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+foot-2
+  rotate: true
+  xy: 2, 2
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+hand-back
+  rotate: true
+  xy: 213, 92
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+hand-font
+  rotate: false
+  xy: 39, 5
+  size: 86, 58
+  orig: 86, 58
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 65
+  size: 214, 209
+  orig: 214, 209
+  offset: 0, 0
+  index: -1
+pants
+  rotate: true
+  xy: 215, 8
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+pants-1
+  rotate: false
+  xy: 266, 16
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+pants-2
+  rotate: true
+  xy: 268, 60
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+shirt
+  rotate: true
+  xy: 215, 185
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+shirt-hand-back
+  rotate: false
+  xy: 268, 101
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+shirt-hand-font
+  rotate: true
+  xy: 268, 148
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1

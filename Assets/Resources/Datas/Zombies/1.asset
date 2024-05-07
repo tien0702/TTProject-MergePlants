@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153ff3d8d1fa9b74ab50c377dfe29540, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  <TagInPool>k__BackingField: Zombie
+  <ID>k__BackingField: 1
+  <Level>k__BackingField: 1
+  <Gold>k__BackingField: 2
+  <MaxHPOrigin>k__BackingField: 100
+  <MoveSpeedOrigin>k__BackingField: 0.5
+  <CurrentMoveSpeed>k__BackingField: 1
+  <Portrait>k__BackingField: {fileID: 0}
+  <skeletonDataAsset>k__BackingField: {fileID: 11400000, guid: e02bdba3b21d9cd42a8bf55f513d2070, type: 2}

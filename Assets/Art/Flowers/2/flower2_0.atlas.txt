@@ -1,0 +1,62 @@
+
+flower2_0.png
+size: 271,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beard
+  rotate: false
+  xy: 162, 93
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 162, 52
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+eyes-attack
+  rotate: false
+  xy: 182, 9
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+eyes-idle
+  rotate: false
+  xy: 226, 7
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+flower
+  rotate: true
+  xy: 70, 46
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+foot-behind
+  rotate: false
+  xy: 182, 25
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+foot-font
+  rotate: false
+  xy: 70, 2
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 5
+  size: 135, 66
+  orig: 135, 66
+  offset: 0, 0
+  index: -1

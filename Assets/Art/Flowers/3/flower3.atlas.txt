@@ -1,0 +1,62 @@
+
+flower3.png
+size: 381,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 253, 107
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 314, 90
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+face-attack
+  rotate: true
+  xy: 173, 89
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+face-idle
+  rotate: true
+  xy: 251, 2
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+face-pre-attack
+  rotate: true
+  xy: 173, 2
+  size: 85, 76
+  orig: 85, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 175, 169
+  orig: 175, 169
+  offset: 0, 0
+  index: -1
+leaf-left
+  rotate: false
+  xy: 314, 116
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+leaf-right
+  rotate: false
+  xy: 323, 26
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1

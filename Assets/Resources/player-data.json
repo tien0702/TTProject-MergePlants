@@ -1,0 +1,52 @@
+{
+    "id": "",
+    "Gold": 777,
+    "Diamon": 0,
+    "Items": [
+        {
+            "Type": 0,
+            "Duration": 146.941772,
+            "MaxDuration": 300.0,
+            "Quantity": 4,
+            "Price": 3,
+            "MoreTime": 30,
+            "Value": 2.0
+        },
+        {
+            "Type": 1,
+            "Duration": 145.804886,
+            "MaxDuration": 300.0,
+            "Quantity": 6,
+            "Price": 3,
+            "MoreTime": 30,
+            "Value": 10.0
+        },
+        {
+            "Type": 2,
+            "Duration": 0.0,
+            "MaxDuration": 300.0,
+            "Quantity": 10,
+            "Price": 3,
+            "MoreTime": 30,
+            "Value": 2.0
+        },
+        {
+            "Type": 3,
+            "Duration": 0.0,
+            "MaxDuration": 300.0,
+            "Quantity": 3,
+            "Price": 3,
+            "MoreTime": 30,
+            "Value": 0.5
+        },
+        {
+            "Type": 4,
+            "Duration": 0.0,
+            "MaxDuration": 300.0,
+            "Quantity": 2,
+            "Price": 3,
+            "MoreTime": 30,
+            "Value": 2.0
+        }
+    ]
+}

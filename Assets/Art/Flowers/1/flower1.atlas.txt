@@ -1,0 +1,69 @@
+
+flower1.png
+size: 404,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 74, 14
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1
+eyes-attack
+  rotate: true
+  xy: 229, 72
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+eyes-idle
+  rotate: false
+  xy: 160, 2
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+eyes-pre-attack
+  rotate: false
+  xy: 249, 5
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 2, 41
+  size: 156, 116
+  orig: 156, 116
+  offset: 0, 0
+  index: -1
+foot-1
+  rotate: true
+  xy: 364, 42
+  size: 115, 38
+  orig: 115, 38
+  offset: 0, 0
+  index: -1
+foot-2
+  rotate: false
+  xy: 2, 4
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+leaf-left
+  rotate: true
+  xy: 160, 66
+  size: 91, 67
+  orig: 91, 67
+  offset: 0, 0
+  index: -1
+leaf-right
+  rotate: true
+  xy: 298, 80
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
